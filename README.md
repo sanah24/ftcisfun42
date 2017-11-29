@@ -1,5 +1,5 @@
 # ftcisfun42
-Hello, my name is Sanah Singh. 
-I am an eighth grader in Rice Middle School. 
+Hello, my name is Sanah.  
+I am a student currently enrolled in Rice Middle School. 
 My hobbies range from playing basketball to painting.
-My favorite suject in school is math.
+My favorite subject in school is math, and I enjoy reading books. 
